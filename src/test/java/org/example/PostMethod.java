@@ -1,3 +1,5 @@
+package org.example;
+
 import io.qameta.allure.*;
 import io.restassured.response.Response;
 import org.example.POJO.myAPIPojo;
